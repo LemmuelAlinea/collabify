@@ -202,7 +202,7 @@ function AdminPlatformAnalyticsPage() {
 
   return (
     <DashboardLayout
-      title="Collabify Admin"
+      title="Collabify"
       pageTitle="Platform Analytics"
       navigation={adminNavigation}
     >

@@ -69,7 +69,7 @@ function GeneralManagerAnalyticsPage() {
 
   return (
     <DashboardLayout
-      title="General Workplace"
+      title="Collabify"
       pageTitle="Analytics"
       navigation={generalManagerNavigation}
     >

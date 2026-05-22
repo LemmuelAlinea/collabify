@@ -445,7 +445,7 @@ async function handleSavePerformanceGroups() {
   if (loading) {
     return (
       <DashboardLayout
-        title="Teacher Panel"
+        title="Collabify"
         pageTitle="Class Details"
         navigation={teacherNavigation}
       >
@@ -457,7 +457,7 @@ async function handleSavePerformanceGroups() {
   if (!classData) {
     return (
       <DashboardLayout
-        title="Teacher Panel"
+        title="Collabify"
         pageTitle="Class Details"
         navigation={teacherNavigation}
       >
@@ -468,7 +468,7 @@ async function handleSavePerformanceGroups() {
 
   return (
     <DashboardLayout
-      title="Teacher Panel"
+      title="Collabify"
       pageTitle="Class Details"
       navigation={teacherNavigation}
     >

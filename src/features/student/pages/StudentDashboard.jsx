@@ -237,7 +237,7 @@ const deadlineMap = calendarTasks.reduce((map, task) => {
 
   return (
     <DashboardLayout
-      title="Student Panel"
+      title="Collabify"
       pageTitle="Dashboard"
       navigation={studentNavigation}
     >

@@ -68,7 +68,7 @@ function AdminSystemLogsPage() {
 
   return (
     <DashboardLayout
-      title="Collabify Admin"
+      title="Collabify"
       pageTitle="System Logs"
       navigation={adminNavigation}
     >

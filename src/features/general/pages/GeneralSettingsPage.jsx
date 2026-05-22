@@ -166,7 +166,7 @@ function GeneralSettingsPage({ roleType }) {
   if (loading) {
     return (
       <DashboardLayout
-        title="General Workplace"
+        title="Collabify"
         pageTitle="Settings"
         navigation={getNavigation()}
       >
@@ -177,7 +177,7 @@ function GeneralSettingsPage({ roleType }) {
 
   return (
     <DashboardLayout
-      title="General Workplace"
+      title="Collabify"
       pageTitle="Settings"
       navigation={getNavigation()}
     >

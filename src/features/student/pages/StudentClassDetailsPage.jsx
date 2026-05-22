@@ -265,7 +265,7 @@ function StudentClassDetailsPage() {
   if (loading) {
     return (
       <DashboardLayout
-        title="Student Panel"
+        title="Collabify"
         pageTitle="Class Details"
         navigation={studentNavigation}
       >
@@ -277,7 +277,7 @@ function StudentClassDetailsPage() {
   if (!classData) {
     return (
       <DashboardLayout
-        title="Student Panel"
+        title="Collabify"
         pageTitle="Class Details"
         navigation={studentNavigation}
       >
@@ -288,7 +288,7 @@ function StudentClassDetailsPage() {
 
   return (
     <DashboardLayout
-      title="Student Panel"
+      title="Collabify"
       pageTitle="Class Details"
       navigation={studentNavigation}
     >

@@ -156,7 +156,7 @@ async function refreshStorageMetrics() {
 
   return (
     <DashboardLayout
-      title="Collabify Admin"
+      title="Collabify"
       pageTitle="Storage Management"
       navigation={adminNavigation}
     >

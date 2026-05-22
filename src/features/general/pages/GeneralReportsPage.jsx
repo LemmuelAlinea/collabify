@@ -488,7 +488,7 @@ function GeneralReportsPage({ roleType = 'manager' }) {
 
   return (
     <DashboardLayout
-      title="General Workplace"
+      title="Collabify"
       pageTitle="Reports"
       navigation={getNavigation()}
     >

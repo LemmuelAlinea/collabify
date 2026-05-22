@@ -158,7 +158,7 @@ function GeneralSponsorApprovalsPage() {
 
   return (
     <DashboardLayout
-      title="General Workplace"
+      title="Collabify"
       pageTitle="Approvals"
       navigation={generalSponsorNavigation}
     >

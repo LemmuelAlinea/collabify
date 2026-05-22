@@ -172,7 +172,7 @@ function StudentAnalyticsPage() {
 
   return (
     <DashboardLayout
-      title="Student Panel"
+      title="Collabify"
       pageTitle="Analytics"
       navigation={studentNavigation}
     >

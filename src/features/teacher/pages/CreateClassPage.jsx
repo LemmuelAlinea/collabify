@@ -86,7 +86,7 @@ function CreateClassPage() {
 
   return (
     <DashboardLayout
-      title="Teacher Panel"
+      title="Collabify"
       pageTitle="Create Class"
       navigation={teacherNavigation}
     >

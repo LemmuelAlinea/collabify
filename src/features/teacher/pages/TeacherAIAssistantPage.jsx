@@ -246,7 +246,7 @@ const { data: aiStudentEvaluationContext } = await supabase.rpc(
 
   return (
     <DashboardLayout
-      title="Teacher Panel"
+      title="Collabify"
       pageTitle="AI Assistant"
       navigation={teacherNavigation}
     >

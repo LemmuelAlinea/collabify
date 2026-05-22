@@ -247,7 +247,7 @@ function GeneralManagerEvaluationPage() {
 
   return (
     <DashboardLayout
-      title="General Workplace"
+      title="Collabify"
       pageTitle="Evaluation"
       navigation={generalManagerNavigation}
     >

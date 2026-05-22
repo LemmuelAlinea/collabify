@@ -181,7 +181,7 @@ function TeacherSettingsPage() {
 
   return (
     <DashboardLayout
-      title="Teacher Panel"
+      title="Collabify"
       pageTitle="Settings"
       navigation={teacherNavigation}
     >

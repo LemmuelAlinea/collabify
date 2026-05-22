@@ -645,7 +645,7 @@ function TeacherReportsPage() {
 
   return (
     <DashboardLayout
-      title="Teacher Panel"
+      title="Collabify"
       pageTitle="Reports"
       navigation={teacherNavigation}
     >

@@ -1032,7 +1032,7 @@ const filteredStudents = students.filter((student) => {
 
   return (
     <DashboardLayout
-      title="Teacher Panel"
+      title="Collabify"
       pageTitle="Evaluation Details"
       navigation={teacherNavigation}
     >

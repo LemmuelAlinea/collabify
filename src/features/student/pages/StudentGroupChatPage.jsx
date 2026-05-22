@@ -635,7 +635,7 @@ async function handleSummarizeDiscussion() {
   if (loading) {
     return (
       <DashboardLayout
-        title="Student Panel"
+        title="{title}"
         pageTitle="Group Chat"
         navigation={studentNavigation}
       >
@@ -647,7 +647,7 @@ async function handleSummarizeDiscussion() {
   if (!group) {
     return (
       <DashboardLayout
-        title="Student Panel"
+        title="{title}"
         pageTitle="Group Chat"
         navigation={studentNavigation}
       >
@@ -660,7 +660,7 @@ async function handleSummarizeDiscussion() {
 
   return (
     <DashboardLayout
-      title="Student Panel"
+      title="{title}"
       pageTitle="Group Chat"
       navigation={studentNavigation}
     >

@@ -1275,7 +1275,7 @@ async function handleGenerateAiTasks() {
   if (loading) {
     return (
       <DashboardLayout
-        title="Student Panel"
+        title="Collabify"
         pageTitle="Project Details"
         navigation={studentNavigation}
       >
@@ -1287,7 +1287,7 @@ async function handleGenerateAiTasks() {
   if (!project) {
     return (
       <DashboardLayout
-        title="Student Panel"
+        title="Collabify"
         pageTitle="Project Details"
         navigation={studentNavigation}
       >
@@ -1298,7 +1298,7 @@ async function handleGenerateAiTasks() {
 
   return (
     <DashboardLayout
-      title="Student Panel"
+      title="Collabify"
       pageTitle="Project Details"
       navigation={studentNavigation}
     >

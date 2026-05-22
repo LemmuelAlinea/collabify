@@ -128,7 +128,7 @@ setProfile(profileData)
 
   return (
     <DashboardLayout
-      title="General Workplace"
+      title="Collabify"
       pageTitle="Manager Dashboard"
       navigation={generalManagerNavigation}
     >

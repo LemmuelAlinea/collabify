@@ -122,7 +122,7 @@ function GeneralSponsorProjectDetailsPage() {
   if (loading) {
     return (
       <DashboardLayout
-        title="General Workplace"
+        title="Collabify"
         pageTitle="Project Details"
         navigation={generalSponsorNavigation}
       >
@@ -134,7 +134,7 @@ function GeneralSponsorProjectDetailsPage() {
   if (!project) {
     return (
       <DashboardLayout
-        title="General Workplace"
+        title="Collabify"
         pageTitle="Project Details"
         navigation={generalSponsorNavigation}
       >
@@ -158,7 +158,7 @@ function GeneralSponsorProjectDetailsPage() {
 
   return (
     <DashboardLayout
-      title="General Workplace"
+      title="Collabify"
       pageTitle="Project Details"
       navigation={generalSponsorNavigation}
     >

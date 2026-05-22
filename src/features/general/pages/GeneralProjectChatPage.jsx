@@ -710,7 +710,7 @@ function GeneralProjectChatPage({ roleType = 'member' }) {
   if (loading) {
     return (
       <DashboardLayout
-        title="General Workplace"
+        title="Collabify"
         pageTitle="Project Chat"
         navigation={getNavigation()}
       >
@@ -721,7 +721,7 @@ function GeneralProjectChatPage({ roleType = 'member' }) {
 
   return (
     <DashboardLayout
-      title="General Workplace"
+      title="Collabify"
       pageTitle="Project Chat"
       navigation={getNavigation()}
     >

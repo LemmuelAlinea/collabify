@@ -71,7 +71,7 @@ function GeneralSponsorAnalyticsPage() {
 
   return (
     <DashboardLayout
-      title="General Workplace"
+      title="Collabify"
       pageTitle="Analytics"
       navigation={generalSponsorNavigation}
     >

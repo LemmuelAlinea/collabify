@@ -52,7 +52,7 @@ function StudentEvaluationResultsPage() {
 
   return (
     <DashboardLayout
-      title="Student Panel"
+      title="Collabify"
       pageTitle="Evaluation Results"
       navigation={studentNavigation}
     >

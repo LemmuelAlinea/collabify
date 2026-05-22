@@ -187,7 +187,7 @@ function StudentSettingsPage() {
 
   return (
     <DashboardLayout
-      title="Student Panel"
+      title="Collabify"
       pageTitle="Settings"
       navigation={studentNavigation}
     >

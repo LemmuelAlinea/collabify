@@ -583,7 +583,7 @@ function renderVersion(version) {
   if (loading) {
     return (
       <DashboardLayout
-        title="Student Panel"
+        title="Collabify"
         pageTitle="Task Details"
         navigation={studentNavigation}
       >
@@ -595,7 +595,7 @@ function renderVersion(version) {
   if (!task) {
     return (
       <DashboardLayout
-        title="Student Panel"
+        title="Collabify"
         pageTitle="Task Details"
         navigation={studentNavigation}
       >
@@ -606,7 +606,7 @@ function renderVersion(version) {
 
   return (
     <DashboardLayout
-      title="Student Panel"
+      title="Collabify"
       pageTitle="Task Details"
       navigation={studentNavigation}
     >

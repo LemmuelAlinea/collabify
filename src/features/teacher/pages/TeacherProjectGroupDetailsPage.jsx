@@ -145,7 +145,7 @@ function TeacherProjectGroupDetailsPage() {
   if (loading) {
     return (
       <DashboardLayout
-        title="Teacher Panel"
+        title="Collabify"
         pageTitle="Group Details"
         navigation={teacherNavigation}
       >
@@ -157,7 +157,7 @@ function TeacherProjectGroupDetailsPage() {
   if (!project || !group) {
     return (
       <DashboardLayout
-        title="Teacher Panel"
+        title="Collabify"
         pageTitle="Group Details"
         navigation={teacherNavigation}
       >
@@ -170,7 +170,7 @@ function TeacherProjectGroupDetailsPage() {
 
   return (
     <DashboardLayout
-      title="Teacher Panel"
+      title="Collabify"
       pageTitle="Group Details"
       navigation={teacherNavigation}
     >

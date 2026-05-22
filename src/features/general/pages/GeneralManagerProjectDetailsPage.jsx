@@ -414,7 +414,7 @@ function GeneralManagerProjectDetailsPage() {
   if (loading) {
     return (
       <DashboardLayout
-        title="General Workplace"
+        title="Collabify"
         pageTitle="Project Details"
         navigation={generalManagerNavigation}
       >
@@ -426,7 +426,7 @@ function GeneralManagerProjectDetailsPage() {
   if (!project) {
     return (
       <DashboardLayout
-        title="General Workplace"
+        title="Collabify"
         pageTitle="Project Details"
         navigation={generalManagerNavigation}
       >
@@ -437,7 +437,7 @@ function GeneralManagerProjectDetailsPage() {
 
   return (
     <DashboardLayout
-      title="General Workplace"
+      title="Collabify"
       pageTitle="Project Details"
       navigation={generalManagerNavigation}
     >

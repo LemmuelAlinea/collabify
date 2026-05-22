@@ -320,7 +320,7 @@ async function handleAiDecision(request) {
 
   return (
     <DashboardLayout
-      title="Teacher Panel"
+      title="Collabify"
       pageTitle="Reassignments"
       navigation={teacherNavigation}
     >

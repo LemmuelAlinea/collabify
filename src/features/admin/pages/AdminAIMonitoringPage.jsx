@@ -116,7 +116,7 @@ function AdminAIMonitoringPage() {
 
   return (
     <DashboardLayout
-      title="Collabify Admin"
+      title="Collabify"
       pageTitle="AI Monitoring"
       navigation={adminNavigation}
     >

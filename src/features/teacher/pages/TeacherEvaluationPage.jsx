@@ -110,7 +110,7 @@ function TeacherEvaluationPage() {
 
   return (
     <DashboardLayout
-      title="Teacher Panel"
+      title="Collabify"
       pageTitle="Evaluation"
       navigation={teacherNavigation}
     >

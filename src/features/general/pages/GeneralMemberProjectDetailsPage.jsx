@@ -300,7 +300,7 @@ function GeneralMemberProjectDetailsPage() {
   if (loading) {
     return (
       <DashboardLayout
-        title="General Workplace"
+        title="Collabify"
         pageTitle="Project Details"
         navigation={generalMemberNavigation}
       >
@@ -312,7 +312,7 @@ function GeneralMemberProjectDetailsPage() {
   if (!project) {
     return (
       <DashboardLayout
-        title="General Workplace"
+        title="Collabify"
         pageTitle="Project Details"
         navigation={generalMemberNavigation}
       >
@@ -331,7 +331,7 @@ function GeneralMemberProjectDetailsPage() {
 
   return (
     <DashboardLayout
-      title="General Workplace"
+      title="Collabify"
       pageTitle="Project Details"
       navigation={generalMemberNavigation}
     >

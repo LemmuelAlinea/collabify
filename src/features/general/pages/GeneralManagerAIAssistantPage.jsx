@@ -225,7 +225,7 @@ async function handleSendMessage(e) {
 
   return (
     <DashboardLayout
-      title="General Workplace"
+      title="Collabify"
       pageTitle="AI Assistant"
       navigation={generalManagerNavigation}
     >

@@ -88,7 +88,7 @@ function TeacherProjectAnalyticsPage() {
 
   return (
     <DashboardLayout
-      title="Teacher Panel"
+      title="Collabify"
       pageTitle="Project Analytics"
       navigation={teacherNavigation}
     >

@@ -537,7 +537,7 @@ function GeneralTaskDetailsPage({ roleType }) {
   if (loading) {
     return (
       <DashboardLayout
-        title="General Workplace"
+        title="Collabify"
         pageTitle="Task Details"
         navigation={getNavigation()}
       >
@@ -549,7 +549,7 @@ function GeneralTaskDetailsPage({ roleType }) {
   if (!task) {
     return (
       <DashboardLayout
-        title="General Workplace"
+        title="Collabify"
         pageTitle="Task Details"
         navigation={getNavigation()}
       >
@@ -568,7 +568,7 @@ function GeneralTaskDetailsPage({ roleType }) {
 
   return (
     <DashboardLayout
-      title="General Workplace"
+      title="Collabify"
       pageTitle="Task Details"
       navigation={getNavigation()}
     >

@@ -199,7 +199,7 @@ function AdminSettingsPage() {
 
   return (
     <DashboardLayout
-      title="Collabify Admin"
+      title="Collabify"
       pageTitle="System Settings"
       navigation={adminNavigation}
     >

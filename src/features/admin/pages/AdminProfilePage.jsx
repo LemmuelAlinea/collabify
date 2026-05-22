@@ -125,7 +125,7 @@ function AdminProfilePage() {
 
   return (
     <DashboardLayout
-      title="Collabify Admin"
+      title="Collabify"
       pageTitle="Profile"
       navigation={adminNavigation}
     >

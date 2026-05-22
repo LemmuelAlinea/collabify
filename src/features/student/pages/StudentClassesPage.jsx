@@ -93,7 +93,7 @@ function StudentClassesPage() {
 
   return (
     <DashboardLayout
-      title="Student Panel"
+      title="Collabify"
       pageTitle="My Classes"
       navigation={studentNavigation}
     >

@@ -103,7 +103,7 @@ function CreateProjectPage() {
 
   return (
     <DashboardLayout
-      title="Teacher Panel"
+      title="Collabify"
       pageTitle="Create Project"
       navigation={teacherNavigation}
     >

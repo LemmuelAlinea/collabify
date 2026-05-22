@@ -50,7 +50,7 @@ function GeneralSponsorProjectsPage() {
 
   return (
     <DashboardLayout
-      title="General Workplace"
+      title="Collabify"
       pageTitle="Sponsored Projects"
       navigation={generalSponsorNavigation}
     >

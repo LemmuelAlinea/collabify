@@ -89,7 +89,7 @@ function GeneralCreateProjectPage() {
   if (pageLoading) {
     return (
       <DashboardLayout
-        title="General Workplace"
+        title="Collabify"
         pageTitle="Create Project"
         navigation={generalManagerNavigation}
       >
@@ -100,7 +100,7 @@ function GeneralCreateProjectPage() {
 
   return (
     <DashboardLayout
-      title="General Workplace"
+      title="Collabify"
       pageTitle="Create Project"
       navigation={generalManagerNavigation}
     >

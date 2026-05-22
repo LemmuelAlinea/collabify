@@ -187,7 +187,7 @@ const matchesStatus =
 
   return (
     <DashboardLayout
-      title="Student Panel"
+      title="Collabify"
       pageTitle="Tasks"
       navigation={studentNavigation}
     >

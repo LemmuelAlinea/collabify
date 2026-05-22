@@ -59,7 +59,7 @@ function GeneralMemberProjectsPage() {
 
   return (
     <DashboardLayout
-      title="General Workplace"
+      title="Collabify"
       pageTitle="My Projects"
       navigation={generalMemberNavigation}
     >
