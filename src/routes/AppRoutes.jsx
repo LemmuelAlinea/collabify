@@ -86,6 +86,7 @@ function AppRoutes() {
         <Route path="/reset-password" element={<ResetPasswordPage />} />
         <Route path="/admin/login" element={<AdminLoginPage />} />
         <Route path="/admin/dashboard" element={<AdminDashboard />} />
+        <Route path="/student/dashboard" element={<StudentDashboard />} />
 
         <Route
           path="/student/onboarding"
