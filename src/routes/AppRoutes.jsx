@@ -30,6 +30,7 @@ import TeacherReassignmentsPage from '../features/teacher/pages/TeacherReassignm
 import TeacherAIAssistantPage from '../features/teacher/pages/TeacherAIAssistantPage'
 import TeacherProjectGroupDetailsPage from '../features/teacher/pages/TeacherProjectGroupDetailsPage'
 import TeacherReportsPage from '../features/teacher/pages/TeacherReportPage'
+import TeacherTaskDetailsPage from '../features/teacher/pages/TeacherTaskDetailsPage'
 import TeacherSettingsPage from '../features/teacher/pages/TeacherSettingsPage'
 import StudentGroupChatPage from '../features/student/pages/StudentGroupChatPage'
 
@@ -649,6 +650,15 @@ function AppRoutes() {
   element={
     <ProtectedRoute allowedRoles={['platform_admin']}>
       <AdminProfilePage />
+    </ProtectedRoute>
+  }
+/>
+
+<Route
+  path="/teacher/tasks/:taskId"
+  element={
+    <ProtectedRoute allowedRoles={['teacher']}>
+      <TeacherTaskDetailsPage />
     </ProtectedRoute>
   }
 />
